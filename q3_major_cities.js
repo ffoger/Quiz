@@ -8,3 +8,5 @@ for (var key in majorCities) {
   console.log("key " + key +
     ", value " + majorCities[key]);
 }
+
+//Fernando 2
