@@ -10,3 +10,5 @@ function isPrime(value) {
 }
 
 console.log(isPrime(13));
+
+//Fernando
